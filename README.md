@@ -1,5 +1,6 @@
 # Python_Deepawali_Sales_Analysis
 Analyzed Data of Deepawali Sales Data with the help of Python and Derived Important Outcomes.
+
 PROJECT LEARNINGS:
 1. Performed data cleaning and manipulation.
 2. Performed exploratory data analysis (EDA) using pandas, matplotlib, and seaborn libraries.
